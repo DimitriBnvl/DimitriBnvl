@@ -10,4 +10,4 @@ misalignment, with an evaluation pipeline built in UK AISI Inspect.
 **Here you'll find** Python API integration projects (six third-party APIs
 across four repos) alongside the research work.
 
-Reach me at dimitri.bnvl.uni@gmail.com.
+Reach me at dimitribonneville1@gmail.com
