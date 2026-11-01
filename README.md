@@ -1,16 +1,13 @@
-## Hi there 👋
+# Second-year BSc Artificial Intelligence and Computer Science, University of Edinburgh.
 
-<!--
-**DimitriBnvl/DimitriBnvl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Research.** Supervised research in the School of Mathematics extending AKOrN
+(ICLR) with Stuart–Landau oscillators — derivation, reproduction against the
+published baseline, and experimental methodology. Paper in preparation.
 
-Here are some ideas to get you started:
+**Also working on** a replication of Betley et al. (2025) on emergent
+misalignment, with an evaluation pipeline built in UK AISI Inspect.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Here you'll find** Python API integration projects (six third-party APIs
+across four repos) alongside the research work.
+
+Reach me at dimitri.bnvl.uni@gmail.com.
